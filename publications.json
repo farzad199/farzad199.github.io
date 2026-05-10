@@ -1,0 +1,1189 @@
+{
+  "publications": [
+    {
+      "number": 67,
+      "title": "YTLive: A Dataset of Real-World YouTube Live Streaming Sessions",
+      "authors": [
+        "M. Mozhganfar",
+        "P. Jamshidi",
+        "S. A. Aghamiri",
+        "M. Ghasemi",
+        "M. Dolati",
+        "F. Tashtarian",
+        "A. Khonsari",
+        "C. Timmerer"
+      ],
+      "venue": "The IEEE/IFIP Network Operations and Management Symposium (NOMS), Rome, Italy, May 18–22, 2024.",
+      "thumbnail": "images/thumbs/67.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/01/ytlive-a-dataset-of-real-world-youtube-live-streaming-sessions/"
+      }
+    },
+    {
+      "number": 66,
+      "title": "Resource Management for Distributed Binary Neural Networks in Programmable Data Plane",
+      "authors": [
+        "F. Babaei",
+        "M. Dolati",
+        "M. Mozhganfar",
+        "S. Darabi",
+        "F. Tashtarian"
+      ],
+      "venue": "The IEEE/IFIP Network Operations and Management Symposium (NOMS), Rome, Italy, May 18–22, 2024.",
+      "thumbnail": "images/thumbs/66.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/01/resource-management-for-distributed-binary-neural-networks-in-programmable-data-plane/"
+      }
+    },
+    {
+      "number": 65,
+      "title": "QoE Modeling in Volumetric Video Streaming: A Short Survey",
+      "authors": [
+        "M. Mozhganfar",
+        "M. Khodarahmi",
+        "D. Lorenzi",
+        "M. Dolati",
+        "F. Tashtarian",
+        "A. Khonsari",
+        "C. Timmerer"
+      ],
+      "venue": "The IEEE/IFIP Network Operations and Management Symposium (NOMS), Rome, Italy, May 18–22, 2024.",
+      "thumbnail": "images/thumbs/65.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/01/qoe-modeling-in-volumetric-video-streaming-a-short-survey/"
+      }
+    },
+    {
+      "number": 64,
+      "title": "SEED: Energy and Emission Estimation Dataset for Adaptive Video Streaming",
+      "authors": [
+        "S. Afzal",
+        "N. Mehran",
+        "F. Tashtarian",
+        "Andrew C. Freeman",
+        "R. Prodan",
+        "C. Timmerer"
+      ],
+      "venue": "The IEEE International Conference on Visual Communications and Image Processing (VCIP), Klagenfurt, Austria, December 1–4, 2025.",
+      "thumbnail": "images/thumbs/64.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/09/seed-energy-and-emission-estimation-dataset-for-adaptive-video-streaming/"
+      }
+    },
+    {
+      "number": 63,
+      "title": "NeVES: Real-Time Neural Video Enhancement for HTTP Adaptive Streaming",
+      "authors": [
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The IEEE International Conference on Visual Communications and Image Processing (VCIP), Klagenfurt, Austria, December 1–4, 2025.",
+      "thumbnail": "images/thumbs/63.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/09/neves-real-time-neural-video-enhancement-for-http-adaptive-streaming/"
+      }
+    },
+    {
+      "number": 62,
+      "title": "GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media",
+      "authors": [
+        "E. Artioli",
+        "D. Lorenzi",
+        "S. Vats",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "ACM Multimedia Conference 2025 - Brave New Ideas (ACM MM'25), Dublin, Ireland, October 27-31, 2025.",
+      "thumbnail": "images/thumbs/62.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/08/genstream-semantic-streaming-framework-for-generative-reconstruction-of-human-centric-media/"
+      }
+    },
+    {
+      "number": 61,
+      "title": "Receiving Kernel-Level Insights via eBPF: Can ABR Algorithms Adapt Smarter?",
+      "authors": [
+        "M. Ghasemi",
+        "D. Lorenzi",
+        "M. Dolati",
+        "F. Tashtarian",
+        "S. Gorinsky",
+        "C. Timmerer"
+      ],
+      "venue": "Next-Generation Communication Networks (WueWoWAS'25) Workshop, Würzburg, Germany, 6 – 8 Oct 2025.",
+      "thumbnail": "images/thumbs/61.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/07/receiving-kernel-level-insights-via-ebpf-can-abr-algorithms-adapt-smarter/"
+      }
+    },
+    {
+      "number": 60,
+      "title": "DiveXplore – An Open-Source Software for Modern Video Retrieval with Image/Text Embeddings",
+      "authors": [
+        "M. Leopold",
+        "F. Tashtarian",
+        "K. Schöffmann"
+      ],
+      "venue": "ACM Multimedia Conference 2025- Open Source (ACM MM'25), Dublin, Ireland, October 27-31, 2025.",
+      "thumbnail": "images/thumbs/60.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/07/acm-mm25-open-source-divexplore-an-open-source-software-for-modern-video-retrieval-with-image-text-embeddings/"
+      }
+    },
+    {
+      "number": 59,
+      "title": "Real-Time AI-Driven Avatar Generation for Sign Language in HTTP Adaptive Streaming",
+      "authors": [
+        "D. Lorenzi",
+        "E. Artioli",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The 3rd ACM SIGCOMM Workshop on Emerging Multimedia Systems (EMS'25), September, 2025.",
+      "thumbnail": "images/thumbs/59.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/06/real-time-ai-driven-avatar-generation-for-sign-language-in-http-adaptive-streaming/"
+      }
+    },
+    {
+      "number": 58,
+      "title": "HTTP Adaptive Streaming: A Review on Current Advances and Future Challenges",
+      "authors": [
+        "C. Timmerer",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "S. Afzal",
+        "A. Rizk",
+        "M. Zink",
+        "H. Hellwagner"
+      ],
+      "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications, March 2025.",
+      "thumbnail": "images/thumbs/58.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/03/acm-tomm-http-adaptive-streaming-a-review-on-current-advances-and-future-challenges/"
+      }
+    },
+    {
+      "number": 57,
+      "title": "End-to-End Learning-based Video Streaming Enhancement Pipeline: A Generative AI Approach",
+      "authors": [
+        "E. Artioli",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "ACM 35th Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV’25), Stellenbosch, South Africa, 31 March – 3 April 2025.",
+      "thumbnail": "images/thumbs/57.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2025/03/elvis/"
+      }
+    },
+    {
+      "number": 56,
+      "title": "ALPHAS: Adaptive Bitrate Ladder Optimization for Multi-Live Video Streaming",
+      "authors": [
+        "F. Tashtarian",
+        "M. Dolati",
+        "D. Lorenzi",
+        "M. Mozhganfar",
+        "S. Gorinsky",
+        "A. Khonsari",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "The IEEE International Conference on Computer Communications (INFOCOM), London, United Kingdom, May 19–22, 2025, (acceptance rate: 18.6%; quality factor: A*).",
+      "thumbnail": "images/thumbs/56.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2024/12/alphas-infocom-2025/"
+      }
+    },
+    {
+      "number": 55,
+      "title": "Adaptive Quality and Energy Enhancement in Video Streaming with RecABR",
+      "authors": [
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The 4th Mile-High Video Conference (MHV’25), Marriott DTC, Denver, Feb. 18–20, 2025.",
+      "thumbnail": "images/thumbs/55.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2024/11/adaptive-quality-and-energy-enhancement-in-video-streaming-with-recabr/"
+      }
+    },
+    {
+      "number": 54,
+      "title": "Generative AI for Realistic Voice Dubbing Across Languages",
+      "authors": [
+        "E. Artioli",
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The 4th Mile-High Video Conference (MHV’25), Marriott DTC, Denver, Feb. 18–20, 2025.",
+      "thumbnail": "images/thumbs/54.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/"
+      }
+    },
+    {
+      "number": 53,
+      "title": "In-Band Quality Notification from Users to ISPs",
+      "authors": [
+        "L. Peroni",
+        "S. Gorinsky",
+        "F. Tashtarian"
+      ],
+      "venue": "The 13th IEEE International Conference on Cloud Networking (CloudNet), Rio de Janeiro, Brazil, November 2024.",
+      "thumbnail": "images/thumbs/53.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2024/10/in-band-quality-notification-from-users-to-isps/"
+      }
+    },
+    {
+      "number": 52,
+      "title": "MVCD: Multi-Dimensional Video Compression Dataset",
+      "authors": [
+        "H. Amirpour1",
+        "M. Ghasempour1",
+        "F. Tashtarian",
+        "A. Telili",
+        "S. Afzal",
+        "W. Hamidouche",
+        "C. Timmerer"
+      ],
+      "venue": "IEEE Visual Communications and Image Processing (IEEE VCIP) Conference, Tokyo, Japan, December 2024.",
+      "thumbnail": "images/thumbs/52.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://github.com/cd-athena/MVCD"
+      }
+    },
+    {
+      "number": 51,
+      "title": "VEEP: Video Encoding Energy and CO2 Emission Prediction",
+      "authors": [
+        "A. Lachini",
+        "M. Hoi",
+        "S. Afzal",
+        "S. Linder",
+        "F. Tashtarian",
+        "R. Pordan",
+        "C. Timmerer"
+      ],
+      "venue": "The 2nd International ACM Green Multimedia Systems (GMSys) Workshop, Bari, Italy, April 2024.",
+      "thumbnail": "images/thumbs/51.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3652104.3652528"
+      }
+    },
+    {
+      "number": 50,
+      "title": "DIGITWISE: Digital Twin-based Modeling of Adaptive Video Streaming Engagement",
+      "authors": [
+        "E. Artioli",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The 15th ACM Multimedia Systems (MMSys) Conference, Bari, Italy, April 2024.",
+      "thumbnail": "images/thumbs/50.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/pdf/10.1145/3625468.3647613"
+      }
+    },
+    {
+      "number": 49,
+      "title": "E-WISH: An Energy-aware ABR Algorithm For Green HTTP Adaptive Video Streaming",
+      "authors": [
+        "D. Lorenzi",
+        "M. Nguyen",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The International Conference on Mile-High Video (MHV), Denver, February 2024.",
+      "thumbnail": "images/thumbs/49.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3638036.3640802"
+      }
+    },
+    {
+      "number": 48,
+      "title": "MEDUSA: A Dynamic Codec Switching Approach in HTTP Adaptive Streaming",
+      "authors": [
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "H. Hellwagner",
+        "C. Timmerer"
+      ],
+      "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications, April 2024.",
+      "thumbnail": "images/thumbs/48.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1145/3656175"
+      }
+    },
+    {
+      "number": 47,
+      "title": "PyStream: Enhancing Video Streaming Evaluation",
+      "authors": [
+        "S. Radler",
+        "L. Prüller",
+        "E. Artioli",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The 15th ACM Multimedia Systems (MMSys) Conference - Technical Demo Track, Bari, Italy, April 2024.",
+      "thumbnail": "images/thumbs/47.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1145/3625468.3652194"
+      }
+    },
+    {
+      "number": 46,
+      "title": "COCONUT: Content Consumption Energy Measurement Dataset for Adaptive Video Streaming",
+      "authors": [
+        "F. Tashtarian",
+        "D. Lorenzi",
+        "H. Amirpour",
+        "S. Afzal",
+        "C. Timmerer"
+      ],
+      "venue": "The 15th ACM Multimedia Systems (MMSys) Conference - Open-source Software and Datasets Track, Bari, Italy, April 2024.",
+      "thumbnail": "images/thumbs/46.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3625468.3652179"
+      }
+    },
+    {
+      "number": 45,
+      "title": "ARTEMIS: Adaptive Bitrate Ladder Optimization for Live Video Streaming",
+      "authors": [
+        "F. Tashtarian",
+        "A. Bentaleb",
+        "H. Amirpour",
+        "S. Gorinsky",
+        "J. Jiang",
+        "H. Hellwagner",
+        "C. Timmerer"
+      ],
+      "venue": "The 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), Santa Clara, CA, USA, April 2024, (acceptance rate: 18.6%; quality factor: A*).",
+      "thumbnail": "images/thumbs/45.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.usenix.org/system/files/nsdi24-tashtarian.pdf"
+      }
+    },
+    {
+      "number": 44,
+      "title": "Which CDN to Download From? A Client and Server Strategies",
+      "authors": [
+        "A. Bentaleb",
+        "R. Farahani",
+        "F. Tashtarian",
+        "H. Hellwagner",
+        "R. Zimmermann"
+      ],
+      "venue": "Proceedings of the 2nd Mile-High Video (MHV) Conference, pp. 135–136, 2023.",
+      "thumbnail": "images/thumbs/44.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1145/3588444.3591030"
+      }
+    },
+    {
+      "number": 43,
+      "title": "MCOM-Live: A Multi-Codec Optimization Model at the Edge for Live Streaming",
+      "authors": [
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "H. Amirpour",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "International Conference on Multimedia Modeling, Springer, pp. 252–264, 2023.",
+      "thumbnail": "images/thumbs/43.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://link.springer.com/chapter/10.1007/978-3-031-27818-1_21"
+      }
+    },
+    {
+      "number": 42,
+      "title": "Performance Analysis of H2BR: HTTP/2-Based Segment Upgrading to Improve the QoE in HAS",
+      "authors": [
+        "M. Nguyen",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "An International Journal of Multimedia Tools and Applications, pp. 1–35, 2023.",
+      "thumbnail": "images/thumbs/42.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://link.springer.com/article/10.1007/s11042-023-15516-5"
+      }
+    },
+    {
+      "number": 41,
+      "title": "Empowerment of Atypical Viewers via Low-effort Personalized Modeling of Video Streaming Quality",
+      "authors": [
+        "L. Peroni",
+        "S. Gorinsky",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "The Proceedings of the 19th International Conference on Emerging Networking EXperiments and Technologies (CoNEXT), Paris, France, December 2023, (acceptance rate: 10%; quality factor: A).",
+      "thumbnail": "images/thumbs/41.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3629139"
+      }
+    },
+    {
+      "number": 40,
+      "title": "LALISA: Adaptive Bitrate Ladder Optimization in HTTP-Based Adaptive Live Streaming",
+      "authors": [
+        "F. Tashtarian",
+        "A. Bentaleb",
+        "H. Amirpour",
+        "B. Taraghi",
+        "C. Timmerer",
+        "H. Hellwagner",
+        "R. Zimmermann"
+      ],
+      "venue": "IEEE/IFIP Network Operations and Management Symposium (NOMS), Miami, FL, USA, May 2023.",
+      "thumbnail": "images/thumbs/40.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/10154347"
+      }
+    },
+    {
+      "number": 39,
+      "title": "OTEC: An Optimized Transcoding Task Scheduler for Cloud and Fog Environments",
+      "authors": [
+        "S. Afzal",
+        "F. Tashtarian",
+        "H. Hadian",
+        "A. Erfanian",
+        "C. Timmerer",
+        "R. Prodan"
+      ],
+      "venue": "Proceedings of the 2nd International Workshop on Design, Deployment, and Evaluation of Network-Assisted Video Streaming (ViSNext), Rome, Italy, December 2022.",
+      "thumbnail": "images/thumbs/39.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3565476.3569099"
+      }
+    },
+    {
+      "number": 38,
+      "title": "Low Latency Live Streaming Implementation in DASH and HLS",
+      "authors": [
+        "A. Bentaleb",
+        "Z. Zhan",
+        "F. Tashtarian",
+        "M. Lim",
+        "S. Harous",
+        "C. Timmerer",
+        "H. Hellwagner",
+        "R. Zimmermann"
+      ],
+      "venue": "The Proceedings of the 30th ACM International Conference on Multimedia (MM), pp. 7343–7346, 2022.",
+      "thumbnail": "images/thumbs/38.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1145/3503161.3548544"
+      }
+    },
+    {
+      "number": 37,
+      "title": "CD-LwTE: Cost-and Delay-aware Light-weight Transcoding at the Edge",
+      "authors": [
+        "A. Erfanian",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "IEEE Transactions on Network and Service Management, vol. 20, September 2023.",
+      "thumbnail": "images/thumbs/37.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9990597"
+      }
+    },
+    {
+      "number": 36,
+      "title": "Video Streaming Using Light-weight Transcoding and In-network Intelligence",
+      "authors": [
+        "A. Erfanian",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "Proceedings of the 1st Mile-High Video Conference, Denver, USA, 2024.",
+      "thumbnail": "images/thumbs/36.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3510450.3517284"
+      }
+    },
+    {
+      "number": 35,
+      "title": "QoCoVi: QoE-and Cost-aware Adaptive Video Streaming for the Internet of Vehicles",
+      "authors": [
+        "A. Erfanian",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "Computer Communications, vol. 190, pp. 1–9, 2022.",
+      "thumbnail": "images/thumbs/35.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/pii/S0140366422000780"
+      }
+    },
+    {
+      "number": 34,
+      "title": "RICHTER: Hybrid P2P-CDN Architecture for Low Latency Live Video Streaming",
+      "authors": [
+        "R. Farahani",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "et al."
+      ],
+      "venue": "Proceedings of the 1st Mile-High Video (MHV) Conference, Denver, USA, 2024.",
+      "thumbnail": "images/thumbs/34.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1145/3510450.3517290"
+      }
+    },
+    {
+      "number": 33,
+      "title": "ARARAT: A Collaborative Edge-Assisted Framework for HTTP Adaptive Video Streaming",
+      "authors": [
+        "R. Farahani",
+        "M. Shojafar",
+        "C. Timmerer",
+        "F. Tashtarian",
+        "M. Ghanbari",
+        "H. Hellwagner"
+      ],
+      "venue": "IEEE Transactions on Network and Service Management, vol. 20, no. 1, pp. 625–643, 2022.",
+      "thumbnail": "images/thumbs/33.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9905711"
+      }
+    },
+    {
+      "number": 32,
+      "title": "LEADER: A Collaborative Edge-and SDN-assisted Framework for HTTP Adaptive Video Streaming",
+      "authors": [
+        "R. Farahani",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "M. Ghanbar",
+        "H. Hellwagner"
+      ],
+      "venue": "IEEE International Conference on Communications (ICC), Seoul, South Korea, May 2022.",
+      "thumbnail": "images/thumbs/32.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9838949"
+      }
+    },
+    {
+      "number": 31,
+      "title": "DoFP+: An HTTP/3-Based Adaptive Bitrate Approach Using Retransmission Techniques",
+      "authors": [
+        "M. Nguyen",
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "H. Hellwagner",
+        "C. Timmerer"
+      ],
+      "venue": "IEEE Access, vol. 10, pp. 109565–109579, 2022.",
+      "thumbnail": "images/thumbs/31.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9919844"
+      }
+    },
+    {
+      "number": 30,
+      "title": "CoPaM: Cost-aware VM Placement and Migration for Mobile Services in Multi-Cloudlet Environment: An SDN-based Approach",
+      "authors": [
+        "S. Shahryari",
+        "F. Tashtarian",
+        "S.-A. Hosseini-Seno"
+      ],
+      "venue": "Computer Communications, vol. 191, pp. 257–273, 2022.",
+      "thumbnail": "images/thumbs/30.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0140366422001578"
+      }
+    },
+    {
+      "number": 29,
+      "title": "HxL3: Optimized Delivery Architecture for HTTP Low-latency Live Streaming",
+      "authors": [
+        "F. Tashtarian",
+        "A. Bentaleb",
+        "A. Erfanian",
+        "H. Hellwagner",
+        "C. Timmerer",
+        "R. Zimmermann"
+      ],
+      "venue": "IEEE Transactions on Multimedia, vol. 25, 2022.",
+      "thumbnail": "images/thumbs/29.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9706251"
+      }
+    },
+    {
+      "number": 28,
+      "title": "Lwte-live: Light-weight Transcoding at the Edge for Live Streaming",
+      "authors": [
+        "A. Erfanian",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "Proceedings of the Workshop on Design, Deployment, and Evaluation of Network-Assisted Video Streaming (ViSNext), Virtual Event, December 2021.",
+      "thumbnail": "images/thumbs/28.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3488662.3493829"
+      }
+    },
+    {
+      "number": 27,
+      "title": "LwTE: Light-weight Transcoding at the Edge",
+      "authors": [
+        "A. Erfanian",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "IEEE Access, vol. 9, pp. 112276–112289, 2021.",
+      "thumbnail": "images/thumbs/27.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9507473"
+      }
+    },
+    {
+      "number": 26,
+      "title": "OSCAR: On Optimizing Resource Utilization in Live Video Streaming",
+      "authors": [
+        "A. Erfanian",
+        "F. Tashtarian",
+        "A. Zabrovskiy",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "IEEE Transactions on Network and Service Management, vol. 18, no. 1, pp. 552–569, 2021.",
+      "thumbnail": "images/thumbs/26.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9327491"
+      }
+    },
+    {
+      "number": 25,
+      "title": "CSDN: CDN-aware QoE Optimization in SDN-assisted HTTP Adaptive Video Streaming",
+      "authors": [
+        "R. Farahani",
+        "F. Tashtarian",
+        "H. Amirpour",
+        "C. Timmerer",
+        "M. Ghanbari",
+        "H. Hellwagner"
+      ],
+      "venue": "The 46th IEEE Conference on Local Computer Networks (LCN), Virtual Event, October 2021.",
+      "thumbnail": "images/thumbs/25.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9524970"
+      }
+    },
+    {
+      "number": 24,
+      "title": "ES-HAS: An Edge-and SDN-assisted Framework for HTTP Adaptive Video Streaming",
+      "authors": [
+        "R. Farahani",
+        "F. Tashtarian",
+        "A. Erfanian",
+        "C. Timmerer",
+        "M. Ghanbari",
+        "H. Hellwagner"
+      ],
+      "venue": "The Proceedings of the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV), Istanbul, Turkey, September 2021.",
+      "thumbnail": "images/thumbs/24.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3458306.3460997"
+      }
+    },
+    {
+      "number": 23,
+      "title": "Days of Future Past: An Optimization-based Adaptive Bitrate Algorithm over HTTP/3",
+      "authors": [
+        "D. Lorenzi",
+        "M. Nguyen",
+        "F. Tashtarian",
+        "S. Milani",
+        "H. Hellwagner",
+        "C. Timmerer"
+      ],
+      "venue": "The Proceedings of the 2021 Workshop on Evolution, Performance and Interoperability of QUIC, Virtual Event, Germany, December 2021.",
+      "thumbnail": "images/thumbs/23.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3488660.3493802"
+      }
+    },
+    {
+      "number": 22,
+      "title": "A Distributed Delivery Architecture for User Generated Content Live Streaming over HTTP",
+      "authors": [
+        "F. Tashtarian",
+        "A. Bentaleb",
+        "R. Farahani",
+        "et al."
+      ],
+      "venue": "The 46th IEEE Conference on Local Computer Networks (LCN), Virtual Event, October 2021.",
+      "thumbnail": "images/thumbs/22.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9525027"
+      }
+    },
+    {
+      "number": 21,
+      "title": "Quality Optimization of Live Streaming Services over HTTP with Reinforcement Learning",
+      "authors": [
+        "F. Tashtarian",
+        "R. Falanji",
+        "A. Bentaleb",
+        "et al."
+      ],
+      "venue": "IEEE Global Communications Conference (GLOBECOM), Madrid, Spain, December 2021.",
+      "thumbnail": "images/thumbs/21.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9685933"
+      }
+    },
+    {
+      "number": 20,
+      "title": "Load-balancing Algorithm for Multiple Gateways in Fog-based Internet of Things",
+      "authors": [
+        "F. Banaie",
+        "M. H. Yaghmaee",
+        "S. A. Hosseini",
+        "F. Tashtarian"
+      ],
+      "venue": "IEEE Internet of Things Journal, vol. 7, no. 8, pp. 7043–7053, 2020.",
+      "thumbnail": "images/thumbs/20.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9043542"
+      }
+    },
+    {
+      "number": 19,
+      "title": "On Optimizing Resource Utilization in AVC-based Real-time Video Streaming",
+      "authors": [
+        "A. Erfanian",
+        "F. Tashtarian",
+        "R. Farahani",
+        "C. Timmerer",
+        "H. Hellwagner"
+      ],
+      "venue": "The 6th IEEE Conference on Network Softwarization (NetSoft), Virtual Event, July 2020.",
+      "thumbnail": "images/thumbs/19.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/9165450"
+      }
+    },
+    {
+      "number": 18,
+      "title": "An SDN Based Framework for Maximizing Throughput and Balanced Load Distribution in a Cloudlet Network",
+      "authors": [
+        "S. Shahryari",
+        "S.-A. Hosseini-Seno",
+        "F. Tashtarian"
+      ],
+      "venue": "Future Generation Computer Systems, vol. 110, pp. 18–32, 2020.",
+      "thumbnail": "images/thumbs/18.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0167739X19322447"
+      }
+    },
+    {
+      "number": 17,
+      "title": "CoDeC: A Cost-effective and Delay-aware SFC Deployment",
+      "authors": [
+        "F. Tashtarian",
+        "M. F. Zhani",
+        "B. Fatemipour",
+        "D. Yazdani"
+      ],
+      "venue": "IEEE Transactions on Network and Service Management, vol. 17, no. 2, pp. 793–806, 2019.",
+      "thumbnail": "images/thumbs/17.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/8884113"
+      }
+    },
+    {
+      "number": 16,
+      "title": "An optimal spatial and temporal charging schedule for electric vehicles in smart grid",
+      "authors": [
+        "B. Barabadi",
+        "F. Tashtarian",
+        "M. H. Yaghmaee"
+      ],
+      "venue": "IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, United Arab Emirates, 09-13 December 2018.",
+      "thumbnail": "images/thumbs/16.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/8647463"
+      }
+    },
+    {
+      "number": 15,
+      "title": "Distributed lifetime optimization of wireless sensor networks in smart grid",
+      "authors": [
+        "F. Tashtarian",
+        "A. Montazerolghaem",
+        "M. Abbasi"
+      ],
+      "venue": "IEEE International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, ON, Canada, 12-15 August, 2018.",
+      "thumbnail": "images/thumbs/15.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/8499497"
+      }
+    },
+    {
+      "number": 14,
+      "title": "On Maximizing QoE in AVC-based HTTP Adaptive Streaming: An SDN Approach",
+      "authors": [
+        "A. Erfanian",
+        "F. Tashtarian",
+        "M. H. Yaghmaee"
+      ],
+      "venue": "The 26th IEEE/ACM International Symposium on Quality of Service (IWQoS), Alberta, Canada, June 2018.",
+      "thumbnail": "images/thumbs/14.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/8624161"
+      }
+    },
+    {
+      "number": 13,
+      "title": "S2VC: An SDN-based Framework for Maximizing QoE in SVC-based HTTP Adaptive Streaming",
+      "authors": [
+        "F. Tashtarian",
+        "A. Erfanian",
+        "A. Varasteh"
+      ],
+      "venue": "Computer Networks, vol. 146, pp. 33–46, 2018.",
+      "thumbnail": "images/thumbs/13.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S138912861830879X"
+      }
+    },
+    {
+      "number": 12,
+      "title": "Residential power consumption forecasting in the smart grid using ANFIS system",
+      "authors": [
+        "M. Abbasi",
+        "F. Tashtarian",
+        "M. H. Yaghmaee"
+      ],
+      "venue": "International Conference on Computer and Knowledge Engineering (ICCKE), 26-27 October, 2017.",
+      "thumbnail": "images/thumbs/12.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/8167938"
+      }
+    },
+    {
+      "number": 11,
+      "title": "Distributed VNF Scaling in Large-scale Datacenters: An ADMM-based Approach",
+      "authors": [
+        "F. Tashtarian",
+        "A. Varasteh",
+        "A. Montazerolghaem",
+        "W. Kellerer"
+      ],
+      "venue": "The 17th IEEE International Conference on Communication Technology (ICCT), Chengdu, China, October 2017.",
+      "thumbnail": "images/thumbs/11.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://mediatum.ub.tum.de/doc/1430506/433024.pdf"
+      }
+    },
+    {
+      "number": 10,
+      "title": "On Reliability-aware Server Consolidation in Cloud Datacenters",
+      "authors": [
+        "A. Varasteh",
+        "F. Tashtarian",
+        "M. Goudarzi"
+      ],
+      "venue": "The 16th IEEE International Symposium on Parallel and Distributed Computing (ISPDC), Innsbruck, Austria, July 2017.",
+      "thumbnail": "images/thumbs/10.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/8121624"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Overload Mitigation Mechanism for VoIP Networks: A Transport Layer Approach Based on Resource Management",
+      "authors": [
+        "A. Montazerolghaem",
+        "S. A. Hosseini Seno",
+        "M. H. Yaghmaee",
+        "F. Tashtarian"
+      ],
+      "venue": "Transactions on Emerging Telecommunications Technologies, vol. 27, no. 6, pp. 857–873, 2016.",
+      "thumbnail": "images/thumbs/9.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3038"
+      }
+    },
+    {
+      "number": 8,
+      "title": "A Load-balanced Call Admission Controller for IMS Cloud Computing",
+      "authors": [
+        "A. Montazerolghaem",
+        "M. H. Yaghmaee",
+        "A. Leon-Garcia",
+        "M. Naghibzadeh",
+        "F. Tashtarian"
+      ],
+      "venue": "IEEE Transactions on Network and Service Management, vol. 13, no. 4, pp. 806–822, 2016.",
+      "thumbnail": "images/thumbs/8.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1109/TNSM.2016.2572161"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Overload Control in SIP Networks: A Heuristic Approach Based on Mathematical Optimization",
+      "authors": [
+        "A. Montazerolghaem",
+        "M. H. Y. Moghaddam",
+        "F. Tashtarian"
+      ],
+      "venue": "The IEEE Global Communications Conference (GLOBECOM), San Diego, California, USA, December 2015.",
+      "thumbnail": "images/thumbs/7.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/7417081"
+      }
+    },
+    {
+      "number": 6,
+      "title": "ODT: Optimal Deadline-based Trajectory for Mobile Sinks in WSN: A Decision Tree and Dynamic Programming Approach",
+      "authors": [
+        "F. Tashtarian",
+        "M. H. Y. Moghaddam",
+        "K. Sohraby",
+        "S. Effati"
+      ],
+      "venue": "Computer Networks, vol. 77, pp. 128–143, 2015.",
+      "thumbnail": "images/thumbs/6.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S1389128614004459"
+      }
+    },
+    {
+      "number": 5,
+      "title": "On Maximizing the Lifetime of Wireless Sensor Networks in Event-driven Applications with Mobile Sinks",
+      "authors": [
+        "F. Tashtarian",
+        "M. H. Y. Moghaddam",
+        "K. Sohraby",
+        "S. Effati"
+      ],
+      "venue": "IEEE Transactions on Vehicular Technology, vol. 64, no. 7, pp. 3177–3189, 2014.",
+      "thumbnail": "images/thumbs/5.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/6891376"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Energy efficient data gathering algorithm in hierarchical wireless sensor networks with mobile sink",
+      "authors": [
+        "F. Tashtarian",
+        "M. H. Y. Moghaddam",
+        "S. Effati"
+      ],
+      "venue": "International eConference on Computer and Knowledge Engineering (ICCKE), 18-19 October, 2012.",
+      "thumbnail": "images/thumbs/4.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/6395384"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Optimal Location for Mobile Sink in Wireless Sensor Networks",
+      "authors": [
+        "M. H. Khodashahi",
+        "F. Tashtarian",
+        "M. H. Y. Moghaddam",
+        "M. T. Honary"
+      ],
+      "venue": "IEEE Wireless Communication and Networking (WCNC) Conference, Sydney, Australia, April 2010.",
+      "thumbnail": "images/thumbs/3.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/5506171"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Directional Rumor Routing in Wireless Sensor Networks",
+      "authors": [
+        "H. Shokrzadeh",
+        "A. T. Haghighat",
+        "F. Tashtarian",
+        "A. Nayebi"
+      ],
+      "venue": "The 3rd IEEE/IFIP International Conference in Central Asia on Internet (ICI), Tashkent, Uzbekistan, September 2007.",
+      "thumbnail": "images/thumbs/2.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/4401659"
+      }
+    },
+    {
+      "number": 1,
+      "title": "A New Energy-efficient Clustering Algorithm for Wireless Sensor Networks",
+      "authors": [
+        "F. Tashtarian",
+        "A. Haghighat",
+        "M. T. Honary",
+        "H. Shokrzadeh"
+      ],
+      "venue": "The 15th International Conference on Software, Telecommunications and Computer Networks (SoftCOM), Split-Dubrovnik, Croatia, September 2007.",
+      "thumbnail": "images/thumbs/1.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/document/4446085"
+      }
+    }
+  ]
+}
