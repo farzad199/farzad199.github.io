@@ -1,11 +1,16 @@
 // Global variables
 let allPublications = [];
-let showingSelected = true;
+let allProjects = [];
+let showingSelectedPublications = true;
+let showingSelectedProjects = true;
 
 // Initialize the page
 document.addEventListener('DOMContentLoaded', function() {
   // Load publications data
   loadPublications();
+  
+  // Load projects data
+  loadProjects();
   
   // Initialize animation delays for sections
   const sections = document.querySelectorAll('section');
@@ -13,10 +18,16 @@ document.addEventListener('DOMContentLoaded', function() {
     section.style.animationDelay = `${index * 0.1}s`;
   });
   
-  // Add event listener for toggle button
+  // Add event listener for toggle button (publications)
   const toggleButton = document.getElementById('toggle-publications');
   if (toggleButton) {
     toggleButton.addEventListener('click', togglePublications);
+  }
+
+  // Add event listener for toggle button (projects)
+  const toggleProjectsButton = document.getElementById('toggle-projects');
+  if (toggleProjectsButton) {
+    toggleProjectsButton.addEventListener('click', toggleProjects);
   }
 
   // Add toggle buttons for project descriptions
@@ -44,6 +55,25 @@ function loadPublications() {
     });
 }
 
+// Load projects from JSON file
+function loadProjects() {
+  fetch('projects.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`Network response was not ok: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      console.log("Projects loaded successfully:", data);
+      allProjects = data.projects;
+      renderProjects(true);
+    })
+    .catch(error => {
+      console.error('Error loading projects:', error);
+    });
+}
+
 // Fallback if JSON loading fails
 function displayFallbackPublications() {
   const container = document.getElementById('publications-container');
@@ -52,14 +82,26 @@ function displayFallbackPublications() {
 
 // Toggle between showing all or selected publications
 function togglePublications() {
-  showingSelected = !showingSelected;
-  renderPublications(showingSelected);
+  showingSelectedPublications = !showingSelectedPublications;
+  renderPublications(showingSelectedPublications);
   
   // Update button text
   const toggleButton = document.getElementById('toggle-publications');
-  toggleButton.textContent = showingSelected ? 'Show All' : 'Show Selected';
+  toggleButton.textContent = showingSelectedPublications ? 'Show All' : 'Show Selected';
   const toggleHeader = document.getElementById('toggle-header');
-  toggleHeader.textContent = showingSelected ? 'Selected Publications' : 'All Publications';
+  toggleHeader.textContent = showingSelectedPublications ? 'Selected Publications' : 'All Publications';
+}
+
+// Toggle between showing all or selected projects
+function toggleProjects() {
+  showingSelectedProjects = !showingSelectedProjects;
+  renderProjects(showingSelectedProjects);
+  
+  // Update button text
+  const toggleButton = document.getElementById('toggle-projects');
+  toggleButton.textContent = showingSelectedProjects ? 'Show All' : 'Show Selected';
+  const toggleHeader = document.getElementById('toggle-header-projects');
+  toggleHeader.textContent = showingSelectedProjects ? 'Selected Projects' : 'All Projects';
 }
 
 // Render publications based on selection state
@@ -75,6 +117,24 @@ function renderPublications(selectedOnly) {
     const pubElement = createPublicationElement(publication);
     publicationsContainer.appendChild(pubElement);
   });
+}
+
+// Render projects based on selection state
+function renderProjects(selectedOnly) {
+  const projectsContainer = document.getElementById('projects-container');
+  projectsContainer.innerHTML = '';
+  
+  const projectsToShow = selectedOnly ? 
+    allProjects.filter(project => project.selected === 1) : 
+    allProjects;
+  
+  projectsToShow.forEach(project => {
+    const projectElement = createProjectElement(project);
+    projectsContainer.appendChild(projectElement);
+  });
+  
+  // Re-initialize project toggles after rendering
+  initProjectToggles();
 }
 
 // Create HTML element for a publication
@@ -176,6 +236,82 @@ function createPublicationElement(publication) {
   pubItem.appendChild(content);
   
   return pubItem;
+}
+
+// Create HTML element for a project
+function createProjectElement(project) {
+  const projectCard = document.createElement('article');
+  projectCard.className = 'project-card';
+  
+  // Create project logo
+  const projectLogo = document.createElement('div');
+  projectLogo.className = 'project-logo';
+  
+  const logoImg = document.createElement('img');
+  logoImg.src = project.logo;
+  logoImg.alt = `${project.shortTitle} logo`;
+  projectLogo.appendChild(logoImg);
+  
+  // Create project content
+  const projectContent = document.createElement('div');
+  projectContent.className = 'project-content';
+  
+  // Add title
+  const projectTitle = document.createElement('h3');
+  projectTitle.className = 'project-title';
+  projectTitle.textContent = project.title;
+  projectContent.appendChild(projectTitle);
+  
+  // Create project meta
+  const projectMeta = document.createElement('div');
+  projectMeta.className = 'project-meta';
+  
+  // Funded by
+  const fundedSpan = document.createElement('span');
+  if (project.meta.fundedBy.url) {
+    fundedSpan.innerHTML = `<strong>Funded by:</strong> <a href="${project.meta.fundedBy.url}" target="_blank">${project.meta.fundedBy.name}</a>`;
+  } else {
+    fundedSpan.innerHTML = `<strong>Funded by:</strong> ${project.meta.fundedBy.name}`;
+  }
+  projectMeta.appendChild(fundedSpan);
+  
+  // Duration (if exists)
+  if (project.meta.duration) {
+    const durationSpan = document.createElement('span');
+    durationSpan.innerHTML = `<strong>Duration:</strong> ${project.meta.duration}`;
+    projectMeta.appendChild(durationSpan);
+  }
+  
+  // Status
+  const statusSpan = document.createElement('span');
+  statusSpan.innerHTML = `<strong>Status:</strong> ${project.meta.status}`;
+  projectMeta.appendChild(statusSpan);
+  
+  // Role
+  const roleSpan = document.createElement('span');
+  roleSpan.innerHTML = `<strong>Role:</strong> ${project.meta.role}`;
+  projectMeta.appendChild(roleSpan);
+  
+  // Website (if exists)
+  if (project.meta.website) {
+    const websiteSpan = document.createElement('span');
+    websiteSpan.innerHTML = `<strong>Website:</strong> <a href="${project.meta.website.url}" target="_blank">${project.meta.website.name}</a>`;
+    projectMeta.appendChild(websiteSpan);
+  }
+  
+  projectContent.appendChild(projectMeta);
+  
+  // Add description
+  const projectDescription = document.createElement('p');
+  projectDescription.className = 'project-description';
+  projectDescription.textContent = project.description;
+  projectContent.appendChild(projectDescription);
+  
+  // Assemble the project card
+  projectCard.appendChild(projectLogo);
+  projectCard.appendChild(projectContent);
+  
+  return projectCard;
 }
 
 function initProjectToggles() {

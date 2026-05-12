@@ -18,6 +18,20 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body id="top">
+    <nav class="top-nav">
+        <div class="nav-inner">
+            <a href="#top">Home</a>
+            <a href="#about">About</a>
+            <a href="#research">Research</a>
+            <a href="#news">News</a>
+            <a href="#publications">Publications</a>
+            <a href="#projects">Projects</a>
+            <a href="#teaching-supervision">Teaching</a>
+            <a href="#students">Students</a>
+            <a href="#services">Services</a>
+            <!-- <a href="#miscellaneous">Misc</a> -->
+        </div>
+    </nav>
     <header>
         <div class="header-content">
             <h1>Farzad Tashtarian</h1>
@@ -36,12 +50,12 @@
 
     <main>
         <section id="about">
-            <p>Hi! I am Priv.-Doz. Dr. Farzad Tashtarian, a researcher at the Department of Information Technology (ITEC), University of Klagenfurt. I received my Ph.D. in Computer Engineering from Ferdowsi University of Mashhad. Before joining ATHENA, I was an Assistant Professor at Azad University, Mashhad Branch, Iran.</p>
+            <p>Hi! I am Priv.-Doz. Dr. Farzad Tashtarian, a researcher at the <a href="https://itec.aau.at/" target="_blank" rel="noopener noreferrer">Department of Information Technology (ITEC),</a> University of Klagenfurt. I received my Ph.D. in Computer Engineering from Ferdowsi University of Mashhad. Before joining ATHENA, I was an Assistant Professor at Azad University, Mashhad Branch, Iran.</p>
         </section>
 
         <section id="research">
             <h2>Research</h2>
-            <p>My research focuses on ,<strong >multimedia networking, adaptive video streaming, Quality of Experience (QoE), edge/cloud-assisted media delivery, and low-latency communication systems</strong>. In recent years, my work has increasingly focused on <strong>immersive media, Media over QUIC (MoQ), and AI-assisted multimedia streaming systems</strong>.</p>
+            <p>My research focuses on <strong >multimedia networking, adaptive video streaming, Quality of Experience (QoE), edge/cloud-assisted media delivery, and low-latency communication systems</strong>. In recent years, my work has increasingly focused on <strong>immersive media, Media over QUIC (MoQ), and AI-assisted multimedia streaming systems</strong>.</p>
         </section>
 
         <section id="news">
@@ -111,170 +125,18 @@
             </div>
         </section>
         <section id="projects">
-            <h2>Projects</h2>
-            <div class="projects-grid">
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/dorbine-logo.png" alt="DORBINE logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Drone-Based Real-Time Blade Inspection in Energy Systems</h3>
-                        <!-- <p class="project-summary"><strong>DORBINE</strong> is a research project aimed at revolutionizing wind turbine maintenance through AI-powered multimedia drones.</p> -->
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> <a href="https://www.ffg.at/ai" target="_blank">FFG</a></span>
-                            <span><strong>Duration:</strong> 2025 - 2028</span>
-                            <span><strong>Status:</strong> Active</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                            <span><strong>Website:</strong> <a href="https://athena.itec.aau.at/dorbine/" target="_blank">DORBINE</a></span>
-                        </div>
-
-                        <p class="project-description">DORBINE is a research project aimed at revolutionizing wind turbine maintenance through AI-powered multimedia drones. The project leverages high-resolution imaging, LiDAR, and GNSS data collected by autonomous drone swarms to perform in-operation inspection of turbine blades — detecting cracks, measuring blade deflection, and supporting predictive maintenance. By eliminating the need for turbine shutdowns and reducing on-site technician visits, DORBINE contributes to both operational efficiency and sustainability in renewable energy infrastructure.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/athena-logo.png" alt="ATHENA logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Adaptive Streaming over Emerging Network Architectures</h3>
-                        <!-- <p class="project-summary"><strong>ATHENA</strong> is a Christian Doppler Laboratory project optimizing end-to-end video streaming over modern, heterogeneous networks.</p> -->
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> <a href="https://www.cdg.ac.at/" target="_blank">CDG</a></span>
-                            <span><strong>Duration:</strong> 2019 - 2026</span>
-                            <span><strong>Status:</strong> Active</span>
-                            <span><strong>Role:</strong> Leading WP-3/4</span>
-                            <span><strong>Website:</strong> <a href="https://athena.itec.aau.at/" target="_blank">ATHENA</a></span>
-                        </div>
-                        <p class="project-description">ATHENA is a Christian Doppler Laboratory project that focuses on optimizing end-to-end video streaming over modern, heterogeneous network environments. It bridges the gap between user Quality of Experience (QoE) and emerging networking paradigms, such as HTTP/3, QUIC, and edge-based delivery. In ATHENA, I work on developing intelligent, network-aware streaming systems that adapt in real-time to varying network and device conditions. Our research includes energy-efficient streaming, low-latency adaptive bitrate algorithms, and reinforcement learning-based QoE optimization.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/ikko-logo.png" alt="IKKO logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Improving Product Quality at Automotive Production Line through the Implementation of a Real-Time Error Monitoring and Analysis System</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> IKKO, Iran</span>
-                            <span><strong>Status:</strong> Completed, 2019</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">This project developed a real-time error monitoring system for the automotive production line at Iran Khodro Khorasan Company (IKKCO). The system continuously captured production errors and analyzed patterns to improve product quality and reduce defect rates. Insights were visualized through a centralized dashboard to support data-driven quality assurance.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/faima-logo.png" alt="Faima logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Faima: IoT Dongle for Real-Time Vehicle Monitoring and Remote Control </h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> IKKO, Iran</span>
-                            <span><strong>Status:</strong> Completed, 2018</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">Faima focused on the design and development of a low-cost, Android-compatible IoT dongle for real-time vehicle monitoring and remote control. The dongle connects to the vehicle's onboard diagnostics (OBD-II) port and communicates wirelessly with a dedicated mobile application. Through this system, users can track key vehicle parameters (e.g., engine status, fuel level, speed, and GPS location), receive fault alerts, and perform basic remote actions such as door locking or engine shutdown. The project involved embedded system design, Bluetooth communication protocols, mobile app development, and cloud-based data integration. It aimed to enhance driver safety, reduce maintenance costs, and provide a foundation for smart mobility applications.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/ikko-tracking-logo.png" alt="IKKCO tracking logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Designing an Integrated Online Product Tracking System for Streamlined Supply Chain Operations</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> IKKO, Iran</span>
-                            <span><strong>Status:</strong> Completed, 2018</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">A comprehensive online product tracking system was developed to enhance visibility and traceability across IKKCO's supply chain. The system supported real-time status updates, warehouse coordination, and delivery monitoring, significantly reducing delays and losses in production logistics.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/azad1-logo.png" alt="Azad University logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Optimizing Fairness and QoE in Adaptive HTTP Streaming Using Scalable Video Coding</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> Azad University</span>
-                            <span><strong>Status:</strong> Completed, 2017</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">This research focused on optimizing user-perceived Quality of Experience (QoE) in HTTP adaptive streaming systems by integrating scalable video coding (SVC) techniques. The project proposed a fairness-aware bitrate adaptation strategy to improve video quality consistency across competing users.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/azad2-logo.png" alt="Azad University logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Improving QoE in HTTP Adaptive Streaming Using Edge Network Caching Resources</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> Azad University</span>
-                            <span><strong>Status:</strong> Completed, 2016</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">This project explored the use of software-defined networking (SDN) and edge caching to improve QoE in adaptive video streaming. A dynamic content placement and routing mechanism was developed to reduce latency and buffering by intelligently leveraging nearby cache resources.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/azad3-logo.png" alt="Azad University logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Designing an Energy-aware Convex Model for Multi-hop Data Gathering in Wireless Sensor Networks</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> Azad University</span>
-                            <span><strong>Status:</strong> Completed, 2015</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">This project designed a convex optimization model for energy-efficient data collection in wireless sensor networks. By using mobile sinks and multi-hop routing, the system balanced energy consumption across nodes to extend the network lifetime.</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/khangiran-logo.png" alt="Khangiran Gas Refinery logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Detecting Oil Leakage Using Wireless Sensor Networks</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> KGR, Iran</span>
-                            <span><strong>Status:</strong> Completed, 2015</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">A distributed sensor network was developed to detect oil leaks in real-time across refinery pipelines. The system utilized gas, pressure, and vibration sensors with wireless communication to rapidly identify anomalies and trigger alerts, improving environmental safety and operational response time at Khangiran Gas Refinery (KGR).</p>
-                    </div>
-                </article>
-
-                <article class="project-card">
-                    <div class="project-logo">
-                        <img src="images/thumbs/azad4-logo.png" alt="Azad University logo">
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">A Novel Data Dissemination Algorithm for Mobile Sinks in Wireless Sensor Networks</h3>
-                        <div class="project-meta">
-                            <span><strong>Funded by:</strong> Azad University</span>
-                            <span><strong>Status:</strong> Completed, 2014</span>
-                            <span><strong>Role:</strong> Project Leader</span>
-                        </div>
-                        <p class="project-description">This research introduced a novel data dissemination protocol tailored for mobile sink-based wireless sensor networks. The algorithm optimized routing efficiency and minimized latency while maintaining balanced energy usage across sensor nodes.</p>
-                    </div>
-                </article>
+            <div class="projects-header">
+                <h2 id="toggle-header-projects">Selected Projects</h2>
+                <button id="toggle-projects" class="toggle-projects">Show All</button>
+            </div>
+            <div class="projects-grid" id="projects-container">
+                <!-- Projects will be dynamically loaded here -->
             </div>
         </section>
         <section id="teaching-supervision">
             <h2>Teaching</h2>
             <div class="service-category">
-                <h3>Recent Teaching at University of Klagenfurt (2022–present)</h3>
+                <div class="service-title">Recent Teaching at University of Klagenfurt (2022–present)</div>
                 <ul>
                     <li><strong>SS 2026</strong>: (623.910) Fundamental Topics in Multimedia Systems</li>
                     <li><strong>SS 2025</strong>: (626.014) Computer/Communication Systems Modelling</li>
@@ -286,7 +148,7 @@
                 </ul>
             </div>
             <div class="service-category">
-                <h3>Previous Teaching Experience at Azad University (2014–2022)</h3>
+                <div class="service-title">Previous Teaching Experience at Azad University (2014–2022)</div>
                 <strong>Undergraduate Courses</strong>
                 <ul>
                     <li>Computer Networks (2014–2022)</li>
@@ -308,19 +170,41 @@
                 </ul>
             </div>
         </section>
-        <section id="teaching-supervision">
+        <section id="students">
             <h2>Students</h2>
             <div class="service-category">
-                <h3>Ph.D. Students</h3>
+                 <div class="service-title">Ph.D. Students</div>
                 <ul>
-                    <li><strong>Mario Leopold</strong>, thesis title: "Efficient Wind Turbine Defect Detection Using AI Techniques", <strong>status</strong>: Active</li>
-                    <li><strong>Mojtaba Esfandiari</strong>, thesis title: "Improving End-to-End Latency in Video Streaming Using DASH and WebRTC Protocol", <strong>status</strong>: Active</li>
-                    <li><strong>Emanuele Artioli</strong>, thesis title: "Generative AI for HTTP Adaptive Streaming", <strong>status</strong>: Active</li>
+                    <li><strong>Mario Leopold</strong>, (Supervisor) thesis title: "Efficient Wind Turbine Defect Detection Using AI Techniques", <strong>status</strong>: Active</li>
+                    <li><strong>Mojtaba Esfandiari</strong>, (Supervisor) thesis title: "Improving End-to-End Latency in Video Streaming Using DASH and WebRTC Protocol", <strong>status</strong>: Active</li>
+                    <li><strong>Emanuele Artioli</strong>, (Advisor) thesis title: "Generative AI for HTTP Adaptive Streaming", <strong>status</strong>: Active</li>
+                    <li><strong>Reza Saeedinia</strong>, (Advisor) thesis title: "Community-Based QoE Enhancement for User-Generated Content Live Streaming", <strong>status</strong>: Active</li>
+                    <li><strong>Daniele Lorenzi</strong>, (Advisor) thesis title: "QoE- and Energy-aware Content Consumption For HTTP Adaptive Streaming", <strong>status</strong>: Completed | 2025</li>
+                    <li><strong>Newsha Nowrozian</strong>, (Supervisor) thesis title: "Minimizing Charging Latency in Heterogeneous Wireless Sensor Networks with Determining an Optimal Trajectory", <strong>status</strong>: Completed | 2021</li>
+                    <li><strong>Shirzad Shahryari</strong>, (Advisor) thesis title: "Network Resource Management of Cloudlets: An SDN-based Approach", <strong>status</strong>: Completed | 2020</li>
+                    <li><strong>Fatemeh Banaie</strong>, (Advisor) thesis title: "Priority Based Adaptive Scheduling for Delay Sensitive Traffic in Internet of Things", <strong>status</strong>: Completed | 2019</li>
+                    <li><strong>Ahmad R. Montazerolghaem</strong>, (Advisor) thesis title: "Preventing SIP Server Overload through Resource Management", <strong>status</strong>: Completed | 2017</li>
                 </ul>
-                <h3>Master's Students</h3>
+                 <div class="service-title">Master's Students</div>
                 <ul>
-                    <li><strong>Philipp Fößl</strong>, thesis title: "Interactive Gaussian Adaptive Streaming over HTTP/3", <strong>status</strong>: Active</li>
-                    <li><strong>Munjuluru Pranusha</strong>, thesis title: "Evaluation of Bitrate Ladders Across ABR Algorithms in Dynamic Network Environments", <strong>status</strong>: Active</li>
+                    <li><strong>Philipp Fößl</strong>, (Supervisor) thesis title: "Interactive Gaussian Adaptive Streaming over HTTP/3", <strong>status</strong>: Active</li>
+                    <li><strong>Munjuluru Pranusha</strong>, (Advisor) thesis title: "Evaluation of Bitrate Ladders Across ABR Algorithms in Dynamic Network Environments", <strong>status</strong>: Active</li>
+                    <li><strong>Mojtaba Mozhganfar</strong>, (Supervisor) thesis title: "Improving Fairness in Adaptive Live Streaming", <strong>status</strong>: Completed</li>
+                    <li><strong>Alireza Erfanian</strong>, (Supervisor) thesis title: "QoE Improvement in 5G Networks: A Software-Defined Networking Approach", <strong>status</strong>: Completed | 2017</li>
+                    <li><strong>Delaram Yezdani</strong>, (Supervisor) thesis title: "Determining the Optimal Number of Parallel Virtual Network Functions in Software-Defined Networks", <strong>status</strong>: Completed | 2017</li>
+                    <li><strong>Bita Fatemipour</strong>, (Supervisor) thesis title: "Enhancing the Performance of Parallelizing Virtualized Network Functions based on Traffic Engineering in Software-Defined Networks", <strong>status</strong>: Completed | 2017</li>
+                </ul>
+                <!-- <div class="service-title"> Bachelor's Students and Interns</div>
+                <ul>
+                    <li><strong>Samuel Radler</strong></li>
+                    <li><strong>Leon Prüller</strong></li>
+                    <li><strong>Golovatenko, Vladislav</strong></li>
+                    <li><strong>Siarheyeu, Yahor</strong></li>
+                </ul> -->
+                 <div class="service-title">Visiting Researchers|Ph.D. Students</div>
+                <ul>
+                    <li><strong>Md Tariqul Islam</strong>, (Ph.D. Student) Universidade Estadual de Campinas (UNICAMP), Brazil, (July 2025 - July 2026)</li>
+                    <li><strong>Mohammadreza Ghafari</strong>, (Ph.D. Student) Universit´e de Lorraine, CNRS, Inria, LORIA, F-54000 Nancy, France, (April 2026 - June 2026)</li>
                 </ul>
             </div>
         </section>
@@ -395,16 +279,16 @@
             </div>
         </section>
 
-        <section id="miscellaneous">
+        <!-- <section id="miscellaneous">
             <h2>Miscellaneous</h2>
             <div class="misc-item">
                 <p>[Optional] Share your hobbies and interests here.</p>
             </div>
-        </section>
+        </section> -->
     </main>
 
     <footer>
-        <p>Last updated: [Month YYYY]. Design and source code from <a href="https://cs.stanford.edu/~yuhuiz/">Yuhui Zhang's website</a>.</p>
+        <p>Last updated: [May 2026]</p>
     </footer>
 
     <div id="imageModal" class="modal">

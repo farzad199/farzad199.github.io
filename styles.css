@@ -10,15 +10,61 @@
   --transition-time: 0.3s;
 }
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
   line-height: 1.6;
   max-width: 1000px;
   margin: 0 auto;
   padding: 1.5rem;
+  padding-top: 5rem;
   color: var(--text-color);
   background-color: var(--bg-color);
   font-weight: 300;
+}
+
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.98);
+  border-bottom: 1px solid var(--border-color);
+  z-index: 1000;
+  box-shadow: 0 2px 18px rgba(0, 0, 0, 0.06);
+}
+
+
+.nav-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-nav a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px;
+  transition: all var(--transition-time) ease;
+  font-weight: 500;
+}
+
+.top-nav a:hover {
+  color: var(--accent-color);
+  background-color: rgba(74, 116, 185, 0.1);
 }
 
 header {
@@ -35,13 +81,10 @@ header {
 }
 
 .header-image img {
-  width: 150px;
-  max-width: 220px;
-  height: auto;
+  width: 180px;
+  height: 200px;
   object-fit: cover;
-  border-radius: 50%;
-  border: 0px solid var(--border-color);
-  transition: transform var(--transition-time) ease, box-shadow var(--transition-time) ease;
+  border-radius: 0; /* rectangle */
 }
 
 .header-image img:hover {
@@ -127,7 +170,7 @@ nav a:hover, .social-links-header a:hover {
 
 section {
   margin-bottom: 2rem;
-  scroll-margin-top: 1rem;
+  scroll-margin-top: 90px; /* adjust if needed */
   animation: fadeIn 0.8s ease-out;
   width: 100%;
 }
@@ -338,6 +381,29 @@ section {
   gap: 1.25rem;
 }
 
+.projects-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.toggle-projects {
+  background-color: rgba(74, 116, 185, 0.08);
+  color: var(--accent-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all var(--transition-time) ease;
+}
+
+.toggle-projects:hover {
+  background-color: var(--accent-color);
+  color: white;
+}
+
 .project-card {
   display: flex;
   gap: 1.25rem;
@@ -475,7 +541,7 @@ p {
 }
 
 strong {
-  font-weight: 600;
+  font-weight: 300;
   color: var(--accent-color);
 }
 

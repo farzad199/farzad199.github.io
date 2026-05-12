@@ -1,0 +1,190 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Drone-Based Real-Time Blade Inspection in Energy Systems",
+      "shortTitle": "DORBINE",
+      "logo": "images/thumbs/dorbine-logo.png",
+      "selected": 1,
+      "meta": {
+        "fundedBy": {
+          "name": "FFG",
+          "url": "https://www.ffg.at/ai"
+        },
+        "duration": "2025 - 2028",
+        "status": "Active",
+        "role": "Project Leader",
+        "website": {
+          "name": "DORBINE",
+          "url": "https://athena.itec.aau.at/dorbine/"
+        }
+      },
+      "description": "DORBINE is a research project aimed at revolutionizing wind turbine maintenance through AI-powered multimedia drones. The project leverages high-resolution imaging, LiDAR, and GNSS data collected by autonomous drone swarms to perform in-operation inspection of turbine blades — detecting cracks, measuring blade deflection, and supporting predictive maintenance. By eliminating the need for turbine shutdowns and reducing on-site technician visits, DORBINE contributes to both operational efficiency and sustainability in renewable energy infrastructure."
+    },
+    {
+      "id": 2,
+      "title": "Adaptive Streaming over Emerging Network Architectures",
+      "shortTitle": "ATHENA",
+      "logo": "images/thumbs/athena-logo.png",
+      "selected": 1,
+      "meta": {
+        "fundedBy": {
+          "name": "CDG",
+          "url": "https://www.cdg.ac.at/"
+        },
+        "duration": "2019 - 2026",
+        "status": "Active",
+        "role": "Leading WP-3/4",
+        "website": {
+          "name": "ATHENA",
+          "url": "https://athena.itec.aau.at/"
+        }
+      },
+      "description": "ATHENA is a Christian Doppler Laboratory project that focuses on optimizing end-to-end video streaming over modern, heterogeneous network environments. It bridges the gap between user Quality of Experience (QoE) and emerging networking paradigms, such as HTTP/3, QUIC, and edge-based delivery. In ATHENA, I work on developing intelligent, network-aware streaming systems that adapt in real-time to varying network and device conditions. Our research includes energy-efficient streaming, low-latency adaptive bitrate algorithms, and reinforcement learning-based QoE optimization."
+    },
+    {
+      "id": 3,
+      "title": "Improving Product Quality at Automotive Production Line through the Implementation of a Real-Time Error Monitoring and Analysis System",
+      "shortTitle": "IKKO Quality",
+      "logo": "images/thumbs/ikko-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "IKKO, Iran",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2019",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "This project developed a real-time error monitoring system for the automotive production line at Iran Khodro Khorasan Company (IKKCO). The system continuously captured production errors and analyzed patterns to improve product quality and reduce defect rates. Insights were visualized through a centralized dashboard to support data-driven quality assurance."
+    },
+    {
+      "id": 4,
+      "title": "Faima: IoT Dongle for Real-Time Vehicle Monitoring and Remote Control",
+      "shortTitle": "Faima",
+      "logo": "images/thumbs/faima-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "IKKO, Iran",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2018",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "Faima focused on the design and development of a low-cost, Android-compatible IoT dongle for real-time vehicle monitoring and remote control. The dongle connects to the vehicle's onboard diagnostics (OBD-II) port and communicates wirelessly with a dedicated mobile application. Through this system, users can track key vehicle parameters (e.g., engine status, fuel level, speed, and GPS location), receive fault alerts, and perform basic remote actions such as door locking or engine shutdown. The project involved embedded system design, Bluetooth communication protocols, mobile app development, and cloud-based data integration. It aimed to enhance driver safety, reduce maintenance costs, and provide a foundation for smart mobility applications."
+    },
+    {
+      "id": 5,
+      "title": "Designing an Integrated Online Product Tracking System for Streamlined Supply Chain Operations",
+      "shortTitle": "IKKCO Tracking",
+      "logo": "images/thumbs/ikko-tracking-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "IKKO, Iran",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2018",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "A comprehensive online product tracking system was developed to enhance visibility and traceability across IKKCO's supply chain. The system supported real-time status updates, warehouse coordination, and delivery monitoring, significantly reducing delays and losses in production logistics."
+    },
+    {
+      "id": 6,
+      "title": "Optimizing Fairness and QoE in Adaptive HTTP Streaming Using Scalable Video Coding",
+      "shortTitle": "Azad SVC",
+      "logo": "images/thumbs/azad1-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "Azad University",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2017",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "This research focused on optimizing user-perceived Quality of Experience (QoE) in HTTP adaptive streaming systems by integrating scalable video coding (SVC) techniques. The project proposed a fairness-aware bitrate adaptation strategy to improve video quality consistency across competing users."
+    },
+    {
+      "id": 7,
+      "title": "Improving QoE in HTTP Adaptive Streaming Using Edge Network Caching Resources",
+      "shortTitle": "Azad Caching",
+      "logo": "images/thumbs/azad2-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "Azad University",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2016",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "This project explored the use of software-defined networking (SDN) and edge caching to improve QoE in adaptive video streaming. A dynamic content placement and routing mechanism was developed to reduce latency and buffering by intelligently leveraging nearby cache resources."
+    },
+    {
+      "id": 8,
+      "title": "Designing an Energy-aware Convex Model for Multi-hop Data Gathering in Wireless Sensor Networks",
+      "shortTitle": "Azad WSN",
+      "logo": "images/thumbs/azad3-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "Azad University",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2015",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "This project designed a convex optimization model for energy-efficient data collection in wireless sensor networks. By using mobile sinks and multi-hop routing, the system balanced energy consumption across nodes to extend the network lifetime."
+    },
+    {
+      "id": 9,
+      "title": "Detecting Oil Leakage Using Wireless Sensor Networks",
+      "shortTitle": "KGR Oil Leakage",
+      "logo": "images/thumbs/khangiran-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "KGR, Iran",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2015",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "A distributed sensor network was developed to detect oil leaks in real-time across refinery pipelines. The system utilized gas, pressure, and vibration sensors with wireless communication to rapidly identify anomalies and trigger alerts, improving environmental safety and operational response time at Khangiran Gas Refinery (KGR)."
+    },
+    {
+      "id": 10,
+      "title": "A Novel Data Dissemination Algorithm for Mobile Sinks in Wireless Sensor Networks",
+      "shortTitle": "Azad Mobile Sinks",
+      "logo": "images/thumbs/azad4-logo.png",
+      "selected": 0,
+      "meta": {
+        "fundedBy": {
+          "name": "Azad University",
+          "url": ""
+        },
+        "duration": "",
+        "status": "Completed, 2014",
+        "role": "Project Leader",
+        "website": null
+      },
+      "description": "This research introduced a novel data dissemination protocol tailored for mobile sink-based wireless sensor networks. The algorithm optimized routing efficiency and minimized latency while maintaining balanced energy usage across sensor nodes."
+    }
+  ]
+}
