@@ -1,5 +1,22 @@
 {
   "publications": [
+     {
+      "number": 68,
+      "title": "Cross-Layer Dynamics in Live Low-Latency: A Dataset of ABR, CC, and AQM Interactions",
+      "authors": [
+        "Md T. Islam",
+        "F. Tashtarian",
+        "C. Esteve Rothenberg",
+        "C. Timmerer"
+      ],
+      "venue": "The 18th International Conference on Quality of Multimedia Experience, Cardiff, UK, June 29th – July 3rd, 2026.",
+      "thumbnail": "images/thumbs/68.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/05/cross-layer-dynamics-in-live-low-latency-a-dataset-of-abr-cc-and-aqm-interactions/"
+      }
+    },
     {
       "number": 67,
       "title": "YTLive: A Dataset of Real-World YouTube Live Streaming Sessions",
