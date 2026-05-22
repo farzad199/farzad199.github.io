@@ -214,13 +214,27 @@ function createPublicationElement(publication) {
       links.appendChild(pdfLink);
     }
     
-    if (publication.links.code) {
+    if (publication.links.slide) {
+      const slideLink = document.createElement('a');
+      slideLink.href = publication.links.slide;
+      slideLink.textContent = '[Slides]';
+      links.appendChild(slideLink);
+    }
+
+    if (publication.links.video) {
+      const videoLink = document.createElement('a');
+      videoLink.href = publication.links.video;
+      videoLink.textContent = '[Video]';
+      links.appendChild(videoLink);
+    }
+
+    if (publication.links.github) {
       const codeLink = document.createElement('a');
-      codeLink.href = publication.links.code;
-      codeLink.textContent = '[Code]';
+      codeLink.href = publication.links.github;
+      codeLink.textContent = '[GitHub]';
       links.appendChild(codeLink);
     }
-    
+
     if (publication.links.project) {
       const projectLink = document.createElement('a');
       projectLink.href = publication.links.project;

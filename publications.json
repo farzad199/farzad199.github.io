@@ -35,7 +35,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2026/01/ytlive-a-dataset-of-real-world-youtube-live-streaming-sessions/"
+        "pdf": "https://arxiv.org/pdf/2510.24769",
+        "github": "https://github.com/ghalandar/YTLive"
       }
     },
     {
@@ -53,7 +54,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2026/01/resource-management-for-distributed-binary-neural-networks-in-programmable-data-plane/"
+        "pdf": "https://athena.itec.aau.at/2026/01/resource-management-for-distributed-binary-neural-networks-in-programmable-data-plane/",
+        "slide": "pdfs/66.slide.pdf"
       }
     },
     {
@@ -73,7 +75,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2026/01/qoe-modeling-in-volumetric-video-streaming-a-short-survey/"
+        "pdf": "https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/2022/IEEE_NOMS_2026__QoE_Short_Paper.pdf?sequence=3"
       }
     },
     {
@@ -92,7 +94,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/09/seed-energy-and-emission-estimation-dataset-for-adaptive-video-streaming/"
+        "pdf": "https://ieeexplore.ieee.org/document/11396836",
+        "github": "https://github.com/cd-athena/SEED"
       }
     },
     {
@@ -108,7 +111,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/09/neves-real-time-neural-video-enhancement-for-http-adaptive-streaming/"
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/11396822",
+        "github": "https://github.com/cd-athena/NeVES"
       }
     },
     {
@@ -126,7 +130,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/08/genstream-semantic-streaming-framework-for-generative-reconstruction-of-human-centric-media/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3746027.3758153"
       }
     },
     {
@@ -145,7 +149,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/07/receiving-kernel-level-insights-via-ebpf-can-abr-algorithms-adapt-smarter/"
+        "pdf": "https://gorinsky.networks.imdea.org/pdf/Receiving_Kernel-Level_Insights_via_eBPF_Can_ABR_Algorithms_Adapt_Smarter_WueWoWAS_2025.pdf",
+        "slide": "pdfs/61.slide.pdf"
       }
     },
     {
@@ -161,7 +166,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/07/acm-mm25-open-source-divexplore-an-open-source-software-for-modern-video-retrieval-with-image-text-embeddings/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3746027.3756877"
       }
     },
     {
@@ -178,7 +183,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/06/real-time-ai-driven-avatar-generation-for-sign-language-in-http-adaptive-streaming/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3746441.3748234"
       }
     },
     {
@@ -198,7 +203,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/03/acm-tomm-http-adaptive-streaming-a-review-on-current-advances-and-future-challenges/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3736306"
       }
     },
     {
@@ -214,7 +219,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2025/03/elvis/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3712678.3721881"
       }
     },
     {
@@ -235,7 +240,8 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2024/12/alphas-infocom-2025/"
+        "pdf": "https://ieeexplore.ieee.org/document/11044484",
+        "slide": "pdfs/56.slide.pdf"
       }
     },
     {
@@ -251,7 +257,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2024/11/adaptive-quality-and-energy-enhancement-in-video-streaming-with-recabr/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3715675.3715804"
       }
     },
     {
@@ -268,7 +274,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/"
+        "pdf": "https://dl.acm.org/doi/10.1145/3715675.3715817"
       }
     },
     {
@@ -284,7 +290,7 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://athena.itec.aau.at/2024/10/in-band-quality-notification-from-users-to-isps/"
+        "pdf": "https://ieeexplore.ieee.org/document/10815908/"
       }
     },
     {
@@ -304,7 +310,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://github.com/cd-athena/MVCD"
+        "github": "https://github.com/cd-athena/MVCD",
+        "pdf": "https://ieeexplore.ieee.org/document/10849883"
       }
     },
     {
@@ -410,7 +417,9 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://dl.acm.org/doi/10.1145/3625468.3652179"
+        "pdf": "https://dl.acm.org/doi/10.1145/3625468.3652179",
+        "github": "https://github.com/cd-athena/COCONUT"
+
       }
     },
     {
@@ -430,7 +439,9 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://www.usenix.org/system/files/nsdi24-tashtarian.pdf"
+        "pdf": "https://www.usenix.org/system/files/nsdi24-tashtarian.pdf",
+        "slide":"pdfs/45.slide.pdf",
+        "video": "https://www.youtube.com/watch?v=48JJvBzgw_o"
       }
     },
     {
@@ -521,7 +532,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://ieeexplore.ieee.org/document/10154347"
+        "pdf": "https://ieeexplore.ieee.org/document/10154347",
+        "slide": "pdfs/40.slide.pdf"
       }
     },
     {
@@ -849,7 +861,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://ieeexplore.ieee.org/document/9525027"
+        "pdf": "https://ieeexplore.ieee.org/document/9525027",
+          "slide": "pdfs/22.slide.pdf"
       }
     },
     {
@@ -866,7 +879,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://ieeexplore.ieee.org/document/9685933"
+        "pdf": "https://ieeexplore.ieee.org/document/9685933",
+        "slide": "pdfs/21.slide.pdf"
       }
     },
     {
