@@ -806,7 +806,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://ieeexplore.ieee.org/document/9524970"
+        "pdf": "https://ieeexplore.ieee.org/document/9524970",
+        "video":"https://www.youtube.com/watch?v=P_yyJgRmrLQ"
       }
     },
     {
@@ -825,7 +826,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://dl.acm.org/doi/10.1145/3458306.3460997"
+        "pdf": "https://dl.acm.org/doi/10.1145/3458306.3460997",
+        "video":"https://www.youtube.com/watch?v=cUag8OrQnG4"
       }
     },
     {
@@ -862,7 +864,8 @@
       "award": "",
       "links": {
         "pdf": "https://ieeexplore.ieee.org/document/9525027",
-          "slide": "pdfs/22.slide.pdf"
+          "slide": "pdfs/22.slide.pdf",
+          "video":"https://www.youtube.com/watch?v=gpGTTeW_cM8"
       }
     },
     {
@@ -915,7 +918,8 @@
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://ieeexplore.ieee.org/document/9165450"
+        "pdf": "https://ieeexplore.ieee.org/document/9165450",
+        "video": "https://www.youtube.com/watch?v=8r-7f8BBaqU"
       }
     },
     {
