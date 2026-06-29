@@ -1,5 +1,26 @@
-{
+{   
   "projects": [
+    {
+      "id": 11,
+      "title": "AIMStream: AI-Augmented Multimedia Streaming",
+      "shortTitle": "AIMStream",
+      "logo": "images/thumbs/aimstream-logo.png",
+      "selected": 1,
+      "meta": {
+        "fundedBy": {
+          "name": "CDG",
+          "url": "https://www.cdg.ac.at/"
+        },
+        "duration": "2026 - 2033",
+        "status": "Active",
+        "role": "Project Leader",
+        "website": {
+          "name": "AIMStream",
+          "url": "https://AIMStream.itec.aau.at/"
+        }
+      },
+      "description": "A Christian Doppler Laboratory researching how artificial intelligence can make video and immersive media streaming smarter, more efficient, and more reliable, in collaboration with two industry leaders Bitmovin and Tencent."
+    },
     {
       "id": 1,
       "title": "Drone-Based Real-Time Blade Inspection in Energy Systems",
