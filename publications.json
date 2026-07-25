@@ -1,5 +1,62 @@
 {
   "publications": [
+         {
+      "number": 71,
+      "title": "Depth-Aware Stereo Bitrate Ladder Optimization with Decoding-Time Constraints for HTTP Adaptive Streaming",
+      "authors": [
+        "K.Qureshi",
+        "H. Amirpour",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "IEEE International Workshop on Multimedia Signal Processing (MMSP) , Istanbul, Turkey, September 22 – 24, 2026.",
+      "thumbnail": "images/thumbs/71.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/07/depth-aware-stereo-bitrate-ladder-optimization-with-decoding-time-constraints-for-http-adaptive-streaming/"
+      }
+    },
+         {
+      "number": 70,
+      "title": "MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting over MoQ",
+      "authors": [
+        "E. Artioli",
+        "M. Ghafari",
+        "Md T. Islam",
+        "F. Tashtarian",
+        "C. Esteve Rothenberg",
+        "C. Timmerer"
+      ],
+      "venue": "IEEE International Workshop on Multimedia Signal Processing (MMSP) , Istanbul, Turkey, September 22 – 24, 2026.",
+      "thumbnail": "images/thumbs/70.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/07/moqsplat-adaptive-progressive-streaming-of-3d-gaussian-splatting-over-moq/"
+      }
+    },
+         {
+      "number": 69,
+      "title": "Thin-Client Interactive Gaussian Adaptive Streaming over HTTP/3",
+      "authors": [
+        "E. Artioli",
+        "P. Fößl",
+        "S. Hung",
+        "D. Lorenzi",
+        "F. Tashtarian",
+        "M. Dolati",
+        "C. Hsu",
+        "C. Timmerer"
+      ],
+      "venue": "ACM Multimedia, Rio de Janeiro, Brazil, November 10 – 14, 2026.",
+      "thumbnail": "images/thumbs/69.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://athena.itec.aau.at/2026/07/thin-client-interactive-gaussian-adaptive-streaming-over-http-3-accepted-in-acm-mm26/"
+      }
+    },
      {
       "number": 68,
       "title": "Cross-Layer Dynamics in Live Low-Latency: A Dataset of ABR, CC, and AQM Interactions",
