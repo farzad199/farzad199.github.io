@@ -370,8 +370,8 @@
       "number": 52,
       "title": "MVCD: Multi-Dimensional Video Compression Dataset",
       "authors": [
-        "H. Amirpour1",
-        "M. Ghasempour1",
+        "H. Amirpour",
+        "M. Ghasempour",
         "F. Tashtarian",
         "A. Telili",
         "S. Afzal",
@@ -396,7 +396,7 @@
         "S. Afzal",
         "S. Linder",
         "F. Tashtarian",
-        "R. Pordan",
+        "R. Prodan",
         "C. Timmerer"
       ],
       "venue": "The 2nd International ACM Green Multimedia Systems (GMSys) Workshop, Bari, Italy, April 2024.",
@@ -711,7 +711,7 @@
         "F. Tashtarian",
         "et al."
       ],
-      "venue": "Proceedings of the 1st Mile-High Video (MHV) Conference, Denver, USA, 2024.",
+      "venue": "Proceedings of the 1st Mile-High Video (MHV) Conference, Denver, USA, 2022.",
       "thumbnail": "images/thumbs/34.png",
       "selected": 0,
       "award": "",
@@ -745,7 +745,7 @@
         "R. Farahani",
         "F. Tashtarian",
         "C. Timmerer",
-        "M. Ghanbar",
+        "M. Ghanbari",
         "H. Hellwagner"
       ],
       "venue": "IEEE International Conference on Communications (ICC), Seoul, South Korea, May 2022.",
