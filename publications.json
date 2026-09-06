@@ -1,5 +1,21 @@
 {
   "publications": [
+             {
+      "number": 72,
+      "title": "In-Service Wind Turbine Blade Inspection: A Multi-UAV Architecture Design and Preliminary Validation",
+      "authors": [
+        "M. Leopold",
+        "K. Schöffmann",
+        "F. Tashtarian"
+      ],
+      "venue": "IEEE Access",
+      "thumbnail": "images/thumbs/72.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11677059"
+      }
+    },
          {
       "number": 71,
       "title": "Depth-Aware Stereo Bitrate Ladder Optimization with Decoding-Time Constraints for HTTP Adaptive Streaming",
@@ -35,7 +51,7 @@
       "links": {
         "pdf": "https://athena.itec.aau.at/2026/07/moqsplat-adaptive-progressive-streaming-of-3d-gaussian-splatting-over-moq/"
       }
-    },
+    }, 
          {
       "number": 69,
       "title": "Thin-Client Interactive Gaussian Adaptive Streaming over HTTP/3",
@@ -435,7 +451,7 @@
       ],
       "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications, April 2024.",
       "thumbnail": "images/thumbs/48.png",
-      "selected": 1,
+      "selected": 0,
       "award": "",
       "links": {
         "pdf": "https://dl.acm.org/doi/abs/10.1145/3656175"
