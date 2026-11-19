@@ -1,5 +1,21 @@
 {
   "publications": [
+     {
+      "number": 73,
+      "title": "Perceptual Refinement of an End-to-End Video Streaming Pipeline via Generative AI Layers",
+      "authors": [
+        "E. Artioli",
+        "F. Tashtarian",
+        "C. Timmerer"
+      ],
+      "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)",
+      "thumbnail": "images/thumbs/73.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": ""
+      }
+    },
              {
       "number": 72,
       "title": "In-Service Wind Turbine Blade Inspection: A Multi-UAV Architecture Design and Preliminary Validation",

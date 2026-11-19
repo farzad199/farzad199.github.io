@@ -66,7 +66,7 @@ function loadProjects() {
     })
     .then(data => {
       console.log("Projects loaded successfully:", data);
-      allProjects = data.projects;
+      allProjects = data.projects.filter(project => !project.hidden);
       renderProjects(true);
     })
     .catch(error => {

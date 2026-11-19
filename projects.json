@@ -38,7 +38,7 @@
         "role": "Project Leader",
         "website": {
           "name": "DORBINE",
-          "url": "https://athena.itec.aau.at/dorbine/"
+          "url": "https://dorbine.itec.aau.at/"
         }
       },
       "description": "DORBINE is a research project aimed at revolutionizing wind turbine maintenance through AI-powered multimedia drones. The project leverages high-resolution imaging, LiDAR, and GNSS data collected by autonomous drone swarms to perform in-operation inspection of turbine blades — detecting cracks, measuring blade deflection, and supporting predictive maintenance. By eliminating the need for turbine shutdowns and reducing on-site technician visits, DORBINE contributes to both operational efficiency and sustainability in renewable energy infrastructure."
@@ -70,6 +70,7 @@
       "shortTitle": "IKKO Quality",
       "logo": "images/thumbs/ikko-logo.png",
       "selected": 0,
+    "hidden": true,
       "meta": {
         "fundedBy": {
           "name": "IKKO, Iran",
@@ -88,6 +89,7 @@
       "shortTitle": "Faima",
       "logo": "images/thumbs/faima-logo.png",
       "selected": 0,
+    "hidden": true,
       "meta": {
         "fundedBy": {
           "name": "IKKO, Iran",
@@ -106,6 +108,7 @@
       "shortTitle": "IKKCO Tracking",
       "logo": "images/thumbs/ikko-tracking-logo.png",
       "selected": 0,
+    "hidden": true,
       "meta": {
         "fundedBy": {
           "name": "IKKO, Iran",
@@ -178,6 +181,7 @@
       "shortTitle": "KGR Oil Leakage",
       "logo": "images/thumbs/khangiran-logo.png",
       "selected": 0,
+    "hidden": true,
       "meta": {
         "fundedBy": {
           "name": "KGR, Iran",
